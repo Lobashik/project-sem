@@ -1,0 +1,11 @@
+{
+    "response": [
+        {
+            "id": 395309426,
+            "first_name": "Дмитрий",
+            "last_name": "Лобанев",
+            "can_access_closed": true,
+            "is_closed": false
+        }
+    ]
+}
