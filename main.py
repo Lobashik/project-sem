@@ -9,7 +9,7 @@ from jinja2 import Template
 VK_PATH = 'vk.json'
 GITHUB_PATH = 'github.json'
 TEMPLATE_PATH = 'templates/template.html'
-INDEX_TEMPLATE_PATH = 'templates/index.html'
+INDEX_TEMPLATE_PATH = 'index.html'
 
 
 # def vkon(tokenn):
